@@ -1,0 +1,5 @@
+ramdisk.*
+initramfs/initrd_v7.cpio
+initramfs/initrd_v7.cpio.gz
+initramfs/boot.img
+
